@@ -1,44 +1,46 @@
-[
-  {
-    "id": 1,
-    "name": "会社",
-    "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
-    "url": "http://example.com",
-    "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
-  },
-  {
-    "id": 2,
-    "name": "会社",
-    "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
-    "url": "http://example.com",
-    "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
-  },
-  {
-    "id": 3,
-    "name": "会社",
-    "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
-    "url": "http://example.com",
-    "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
-  },
-  {
-    "id": 4,
-    "name": "会社",
-    "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
-    "url": "http://example.com",
-    "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
-  },
-  {
-    "id": 5,
-    "name": "会社",
-    "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
-    "url": "http://example.com",
-    "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
-  },
-  {
-    "id": 6,
-    "name": "会社",
-    "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
-    "url": "http://example.com",
-    "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
-  }
-]
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "会社",
+      "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+      "url": "http://example.com",
+      "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
+    },
+    {
+      "id": 2,
+      "name": "会社",
+      "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+      "url": "http://example.com",
+      "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
+    },
+    {
+      "id": 3,
+      "name": "会社",
+      "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+      "url": "http://example.com",
+      "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
+    },
+    {
+      "id": 4,
+      "name": "会社",
+      "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+      "url": "http://example.com",
+      "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
+    },
+    {
+      "id": 5,
+      "name": "会社",
+      "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+      "url": "http://example.com",
+      "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
+    },
+    {
+      "id": 6,
+      "name": "会社",
+      "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+      "url": "http://example.com",
+      "image": "https://3.bp.blogspot.com/-vSQVz9ILd7I/VtofTTKo9KI/AAAAAAAA4Wo/bVW_RMat7oY/s400/building_kaisya.png"
+    }
+  ]
+}
